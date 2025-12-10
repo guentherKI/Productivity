@@ -1,4 +1,4 @@
-# 📘 DevFlow Suite – README / KI-Bau-Prompt
+# 📘 DevFlow Suite – README 
 
 > **Ziel:** Eine Desktop-Applikation für Frontend- und Fullstack-Developer, die mehrere Zeit-sparende Tools in einem Programm vereint.  
 > Die App dient als „Developer Efficiency HQ“ mit Deploy-Tools, API-Tester, Performance-Board, File-Tools und mehr.
